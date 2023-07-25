@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 03608dfb2d4bf6c4dbf994c18eb5347a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dancerYoshi: {fileID: 5268090674877707484, guid: 371329fac806b5f4cb16684a5b458dcb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
